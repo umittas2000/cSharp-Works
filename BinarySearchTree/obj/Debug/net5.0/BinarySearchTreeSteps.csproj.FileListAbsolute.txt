@@ -1,0 +1,15 @@
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\BinarySearchTreeSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\BinarySearchTreeSteps.AssemblyInfoInputs.cache
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\BinarySearchTreeSteps.AssemblyInfo.cs
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\BinarySearchTreeSteps.csproj.CoreCompileInputs.cache
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\bin\Debug\net5.0\BinarySearchTreeSteps.exe
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\bin\Debug\net5.0\BinarySearchTreeSteps.deps.json
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\bin\Debug\net5.0\BinarySearchTreeSteps.runtimeconfig.json
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\bin\Debug\net5.0\BinarySearchTreeSteps.runtimeconfig.dev.json
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\bin\Debug\net5.0\BinarySearchTreeSteps.dll
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\bin\Debug\net5.0\ref\BinarySearchTreeSteps.dll
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\bin\Debug\net5.0\BinarySearchTreeSteps.pdb
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\BinarySearchTreeSteps.dll
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\ref\BinarySearchTreeSteps.dll
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\BinarySearchTreeSteps.pdb
+C:\Users\umit_\source\repos\BinarySearchTreeSteps\BinarySearchTreeSteps\obj\Debug\net5.0\BinarySearchTreeSteps.genruntimeconfig.cache
