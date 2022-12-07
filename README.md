@@ -1,4 +1,3 @@
-https://img.shields.io/static/v1?style=plastic&logo=appveyor
 # cSharp-Works
 My works coded in c# will be here in this Repository
 
@@ -9,4 +8,4 @@ My works coded in c# will be here in this Repository
 Subject: Shipping Calculator Desktop application with test case reports.
 
 
-Target: Test execution in real application.
+Target: Test execution and reporting in sample desktop application and boundary tests.
